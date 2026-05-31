@@ -1,6 +1,21 @@
-# Translation Editor for UE4
+# (Revised) Translation Editor for UE4
+Forked from [rionix/LocalizationUE4](https://github.com/rionix/LocalizationUE4)
 
-![Screenshot](ReadmeImages/Screenshot.png "Screenshot")
+### Stuff that was modified
+* Table colors
+* Forced dark mode.
+  * If you got DWMBlurGlass or similar it has a funny Aero effect behind it.
+* More "Modern" icons.
+
+Program was initially modified in the scope, and used, by the translators for [Budget Backrooms](https://github.com/dabardibid/Budget-Backrooms) so that it will not be necessary to [download and build the game's source code](https://bdocs.dabar.dev/docs/modding) just to translate / localize.
+
+The rest is done by me to add the dictionaries and picking the language in game.
+
+More stuff about localization will be discolsed on the [Budget Docs](https://bdocs.dabar.dev/docs/localization)
+
+(stuff kept from the original repo below)
+
+---
 
 ## Compilation and runtime dependencies
 
